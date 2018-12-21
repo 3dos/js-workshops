@@ -1,6 +1,6 @@
 const { describe } = require('riteway');
 
-const stripSection = require('./stripSection')
+const stripSection = require('./stripSection');
 
 describe('stripSection()', async assert => {
   assert({
@@ -8,5 +8,5 @@ describe('stripSection()', async assert => {
     should: 'return "path"',
     actual: stripSection('some/path'),
     expected: 'path'
-  })
+  });
 });

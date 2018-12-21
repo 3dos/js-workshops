@@ -9,5 +9,8 @@
   "dependencies": {
     "riteway": "^4.0.1",
     "tap-nirvana": "^1.1.0"
+  },
+  "devDependencies": {
+    "semistandard": "^13.0.1"
   }
 }
