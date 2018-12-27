@@ -17,6 +17,6 @@ We want to develop a function which will strip away sections from a URL.
 
 Write a function using TDD. What is important here is writing the tests _before_ implementing their solution.
 
-Remember to write a test, see it fail and just give the most simple solution to it until your function is fully implemented.
+Remember to write a test, see it fail and implement the most simple solution to it.
 
-One your function is working properly, it's your choice to make it better through refactoring. This is where your test suite will come in handy and ensure you're not breaking code while refactoring.
+Once your function is working properly and passing all the tests, it's your choice to make it better through refactoring. This is where your test suite will come in handy and ensure you're not breaking code while refactoring.
