@@ -7,10 +7,10 @@
     "test": "riteway ./stripSection.spec.js | tap-nirvana"
   },
   "dependencies": {
-    "riteway": "^4.0.1",
+    "riteway": "^6.1.0",
     "tap-nirvana": "^1.1.0"
   },
   "devDependencies": {
-    "semistandard": "^13.0.1"
+    "semistandard": "^14.2.0"
   }
 }
